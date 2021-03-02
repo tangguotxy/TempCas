@@ -1,7 +1,7 @@
 # TempCas
 Article Dataset的下载链接为：https://drive.google.com/drive/folders/1ViEDrlS3A158TbZcf3pQUgost7LTOY6v?usp=sharing
 
-label.txt为数据标签文件；以空格为分隔符，从第一个特征到最后一个数据格式依次为：
+label.txt为数据标签文件；以空格为分隔符，从第一个特征到最后一个数据格式依次为：//
  #Id  文章ID
  #all_forward	  该文章的总转发量
  #all_favorite	#该文章的总收藏数
